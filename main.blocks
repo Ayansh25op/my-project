@@ -1,0 +1,1 @@
+<xml xmlns="https://developers.google.com/blockly/xml"><block type="device_pin_event" id="`c}|ul.`b(U9OW.f,NcI" x="226" y="182"><field name="name">TouchPin.P0</field><statement name="HANDLER"><block type="basic_show_icon" id="[C!_jG|!:aGg3l/GG%cx"><field name="i">IconNames.Chessboard</field></block></statement></block></xml>
